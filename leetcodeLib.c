@@ -4,22 +4,17 @@
 
 #define ARRAY_SIZE(arr) sizeof(arr)/sizeof(*arr)
 
-typedef struct node {
-    int data;
-    struct node* next;
-} Node;
-
-typedef struct {
-    Node* head;
-    Node* tail;
-} LinkedList;
+struct ListNode {
+    int val;
+    struct ListNode *next;
+};
 
 // Array 
 void printArray(int arr[], int arrSize);
 // LinkedList
-LinkedList* createList(int arr[], int arrSize);
-void insertData(LinkedList *list, int data);
-void printList(LinkedList* list);
+struct ListNode* createList(int arr[], int arrSize);
+void insertData(struct ListNode *list, int data);
+void printList(struct ListNode* list);
 // Bitwise
 void printBinary(int n);
 
@@ -32,33 +27,29 @@ void printArray(int arr[], int arrSize) {
 }
 
 // LinkedList
-LinkedList* createList(int arr[], int arrSize) {
-    LinkedList* list = malloc(sizeof(LinkedList));
-    list->head = NULL;
-    list->tail = NULL;
-    for (int i = 0; i < arrSize; i++) {
-        insertData(list, arr[i]);
+struct ListNode* createList(int arr[], int arrSize) {
+    struct ListNode* list = malloc(sizeof(struct ListNode));
+    list->val = arr[0];
+    list->next = NULL;
+
+    struct ListNode* head = list;
+    struct ListNode* p;
+
+    for (int i = 1; i < arrSize; i++) {
+        p = malloc(sizeof(struct ListNode));
+        p->val = arr[i];
+        p->next = NULL;
+        list->next = p;
+        list = list->next;
     }
-    return list;
+    return head;
 }
 
-void insertData(LinkedList* list, int data) {
-    Node* node = malloc(sizeof(Node));
-    node->data = data;
-    node->next = NULL;
-    if (list->head == NULL) {
-        list->head = node;
-        list->tail = node;
-    } else {
-        list->tail->next = node;
-        list->tail = node;
-    }
-}
-
-void printList(LinkedList* list) {
-    Node* p = list->head;
-    while (p != NULL) {
-        printf("%d -> ", p->data);
+void printList(struct ListNode* list) {
+    if (list == NULL) return;
+    struct ListNode* p = list;
+    while (p) {
+        printf("%d -> ", p->val);
         p = p->next;
     }
     printf("NULL\n");
