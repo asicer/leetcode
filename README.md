@@ -26,6 +26,7 @@ Status | Problem | Solution
 -|-|-
 :white_check_mark: | [0014_longestCommonPrefix][0014-p] | [Python3][0014-3]
 :white_check_mark: | [0020_isValid][0020-p] | [Python3][0020-3] |
+:white_check_mark: | [0028_strStr][0028-p] | [Python3][0028-3] |
 
 ## LinkedList
 
@@ -50,3 +51,5 @@ Status | Problem | Solution
 [0014-3]: https://github.com/asicer/leetcode/blob/master/0014_longestCommonPrefix.py
 [0020-p]: https://leetcode.com/problems/valid-parentheses/
 [0020-3]: https://github.com/asicer/leetcode/blob/master/0020_isValid.py
+[0028-p]: https://leetcode.com/problems/implement-strstr/
+[0028-3]: https://github.com/asicer/leetcode/blob/master/0028_strStr.py
