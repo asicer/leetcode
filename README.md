@@ -17,7 +17,7 @@
 :white_check_mark: | [0053_maxSubArray][0053-p]      | [C][0053-c] |
 :white_check_mark: | [0066_plusOne][0066-p]          | [C][0066-c] |
 :white_check_mark: | [0088_merge][0088-p]            | [C][0088-c] |
-:x:                | [0118_generate][0118-p]         ||
+:x:                | [0118_generate][0118-p]         | [Python3][0118-3]|
 :x:                | [0019_getRow][0119-p]           ||
 :x:                |                                 ||
 
@@ -40,6 +40,7 @@ Status | Problem | Solution
 [0088-p]: https://leetcode.com/problems/merge-sorted-crray/
 [0088-c]: https://github.com/asicer/leetcode/blob/master/0088_merge.c
 [0118-p]: https://leetcode.com/problems/pascals-triangle/
+[0118-3]: https://github.com/asicer/leetcode/blob/master/0118_generate.py
 [0119-p]: https://leetcode.com/problems/pascals-triangle-ii/
 [0119-c]: https://github.com/asicer/
 
