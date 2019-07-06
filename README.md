@@ -17,13 +17,14 @@
 :white_check_mark: | [0053_maxSubArray][0053-p]      | [C][0053-c] |
 :white_check_mark: | [0066_plusOne][0066-p]          | [C][0066-c] |
 :white_check_mark: | [0088_merge][0088-p]            | [C][0088-c] |
-:x:                | [0118_generate][0118-p]         | [Python3][0118-3]|
+:white_check_mark: | [0118_generate][0118-p]         | [Python3][0118-3]|
 :x:                | [0019_getRow][0119-p]           ||
 :x:                |                                 ||
 
 ## String
 Status | Problem | Solution  
 -|-|-
+:white_check_mark: | [0014_longestCommonPrefix][0014-p] | [Python3][0014-3]
 :white_check_mark: | [0020_isValid][0020-p] | [Python3][0020-3] |
 
 ## LinkedList
@@ -45,5 +46,7 @@ Status | Problem | Solution
 [0119-c]: https://github.com/asicer/
 
 
+[0014-p]: https://leetcode.com/problems/longest-common-prefix/
+[0014-3]: https://github.com/asicer/leetcode/blob/master/0014_longestCommonPrefix.py
 [0020-p]: https://leetcode.com/problems/valid-parentheses/
 [0020-3]: https://github.com/asicer/leetcode/blob/master/0020_isValid.py
