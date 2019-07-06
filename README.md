@@ -28,6 +28,7 @@ Status | Problem | Solution
 :white_check_mark: | [0020_isValid][0020-p] | [Python3][0020-3] |
 :white_check_mark: | [0028_strStr][0028-p] | [Python3][0028-3] |
 :white_check_mark: | [0038_countAndSay][0038-p] | [Python3][0038-3] |
+:white_check_mark: | [0058_lengthOfLastWord][0058-p] | [C][0058-c] |
 
 ## LinkedList
 
@@ -56,3 +57,5 @@ Status | Problem | Solution
 [0028-3]: https://github.com/asicer/leetcode/blob/master/0028_strStr.py
 [0038-p]: https://leetcode.com/problems/count-and-say/
 [0038-3]: https://github.com/asicer/leetcode/blob/master/0038_countAndSay.py
+[0058-p]: https://leetcode.com/problems/length-of-last-word/
+[0058-c]: https://github.com/asicer/leetcode/blob/master/0058_lengthOfLastWord.c
