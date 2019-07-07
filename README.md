@@ -30,6 +30,7 @@ Status | Problem | Solution
 :white_check_mark: | [0038_countAndSay][0038-p] | [Python3][0038-3] |
 :white_check_mark: | [0058_lengthOfLastWord][0058-p] | [C][0058-c] |
 :white_check_mark: | [0067_addBinary][0067-p] | [Python3][0067-3] |
+:white_check_mark: | [0125_isPalindrome][0125-p] | [C][0125-c] |
 
 ## LinkedList
 
@@ -62,3 +63,5 @@ Status | Problem | Solution
 [0058-c]: https://github.com/asicer/leetcode/blob/master/0058_lengthOfLastWord.c
 [0067-p]: https://leetcode.com/problems/add-binary/
 [0067-3]: https://github.com/asicer/leetcode/blob/master/0067_addBinary.py
+[0125-p]: https://leetcode.com/problems/valid-palindrome/
+[0125-c]: https://github.com/asicer/leetcode/blob/master/0125_isPalindrome.c
