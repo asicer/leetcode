@@ -31,6 +31,7 @@ Status | Problem | Solution
 :white_check_mark: | [0058_lengthOfLastWord][0058-p] | [C][0058-c] |
 :white_check_mark: | [0067_addBinary][0067-p] | [Python3][0067-3] |
 :white_check_mark: | [0125_isPalindrome][0125-p] | [C][0125-c] |
+:white_check_mark: | [0925_isLongPressedName][0925-p] | [C][0925-c] |
 
 ## LinkedList
 
@@ -65,3 +66,5 @@ Status | Problem | Solution
 [0067-3]: https://github.com/asicer/leetcode/blob/master/0067_addBinary.py
 [0125-p]: https://leetcode.com/problems/valid-palindrome/
 [0125-c]: https://github.com/asicer/leetcode/blob/master/0125_isPalindrome.c
+[0925-p]: https://leetcode.com/problems/long-pressed-name/
+[0925-c]: https://github.com/asicer/leetcode/blob/master/0925_isLongPressedName.c
