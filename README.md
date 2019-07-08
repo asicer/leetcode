@@ -19,7 +19,6 @@
 :white_check_mark: | [0088_merge][0088-p]            | [C][0088-c] |
 :white_check_mark: | [0118_generate][0118-p]         | [Python3][0118-3]|
 :x:                | [0019_getRow][0119-p]           ||
-:x:                |                                 ||
 
 ## String
 Status | Problem | Solution  
@@ -34,6 +33,10 @@ Status | Problem | Solution
 :white_check_mark: | [0925_isLongPressedName][0925-p] | [C][0925-c] |
 
 ## LinkedList
+Status | Problem | Solution  
+-|-|-
+:white_check_mark: | [0002_addTwoNumbers][0002-p] | [C][0002-c]
+
 
 [0001-p]: https://leetcode.com/problems/two-sum/
 [0026-p]: https://leetcode.com/problems/remove-duplicates-from-sorted-crray/
@@ -49,7 +52,6 @@ Status | Problem | Solution
 [0118-p]: https://leetcode.com/problems/pascals-triangle/
 [0118-3]: https://github.com/asicer/leetcode/blob/master/0118_generate.py
 [0119-p]: https://leetcode.com/problems/pascals-triangle-ii/
-[0119-c]: https://github.com/asicer/
 
 
 [0014-p]: https://leetcode.com/problems/longest-common-prefix/
@@ -68,3 +70,6 @@ Status | Problem | Solution
 [0125-c]: https://github.com/asicer/leetcode/blob/master/0125_isPalindrome.c
 [0925-p]: https://leetcode.com/problems/long-pressed-name/
 [0925-c]: https://github.com/asicer/leetcode/blob/master/0925_isLongPressedName.c
+
+[0002-p]: https://leetcode.com/problems/add-two-numbers/
+[0002-c]: https://github.com/asicer/leetcode/blob/master/0002_addTwoNumbers.c
