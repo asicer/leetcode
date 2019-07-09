@@ -8,9 +8,9 @@
 ---
 
 ## Array
- Status | Problem | Solution | Difficulty
-:-|:-|:-|:-
-:white_check_mark: | [0001_twoSum][0001-p]           || <Font Color=Green>Easy</Font> |
+ Status | Problem | Solution | Difficulty |
+:-|:-|:-|:-|
+:white_check_mark: | [0001_twoSum][0001-p]           | [Python][0001-3] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0026_removeDuplicates][0026-p] || <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0027_removeElement][0027-p]    || <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0035_searchInsert][0035-p]     | [C][0035-c] | <Font Color=Green>Easy</Font> |
@@ -20,8 +20,8 @@
 :white_check_mark: | [0118_generate][0118-p]         | [Python3][0118-3]| <Font Color=Green>Easy</Font> |
 
 ## String
-Status | Problem | Solution | Difficulty
-:-|:-|:-|:-
+Status | Problem | Solution | Difficulty |
+:-|:-|:-|:-|
 :white_check_mark: | [0014_longestCommonPrefix][0014-p] | [Python3][0014-3] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0020_isValid][0020-p] | [Python3][0020-3] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0028_strStr][0028-p] | [Python3][0028-3] | <Font Color=Green>Easy</Font> |
@@ -32,8 +32,8 @@ Status | Problem | Solution | Difficulty
 :white_check_mark: | [0925_isLongPressedName][0925-p] | [C][0925-c] | <Font Color=Green>Easy</Font> |
 
 ## LinkedList
-Status | Problem | Solution | Difficulty
-:-|:-|:-|:-
+Status | Problem | Solution | Difficulty |
+:-|:-|:-|:-|
 :white_check_mark: | [0002_addTwoNumbers][0002-p] | [C][0002-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0021_mergeTwoLists][0021-p] | [C][0021-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0024_swapPairs][0024-p] | [C][0024-c] | <Font Color=Orange>Medium</Font> |
@@ -42,6 +42,7 @@ Status | Problem | Solution | Difficulty
 :white_check_mark: | [0092_reverseBetween][0092-p] | [C][0092-c] | <Font Color=Orange>Medium</Font> |
 
 [0001-p]: https://leetcode.com/problems/two-sum/
+[0001-3]: https://github.com/asicer/leetcode/blob/master/0001_twoSum.py
 [0026-p]: https://leetcode.com/problems/remove-duplicates-from-sorted-crray/
 [0027-p]: https://leetcode.com/problems/remove-element/
 [0035-p]: https://leetcode.com/problems/search-insert-position/
