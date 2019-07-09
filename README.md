@@ -9,7 +9,7 @@
 
 ## Array
  Status | Problem | Solution | Difficulty
--|-|-|-
+:-|:-|:-|:-
 :white_check_mark: | [0001_twoSum][0001-p]           || <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0026_removeDuplicates][0026-p] || <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0027_removeElement][0027-p]    || <Font Color=Green>Easy</Font> |
@@ -21,7 +21,7 @@
 
 ## String
 Status | Problem | Solution | Difficulty
--|-|-|-
+:-|:-|:-|:-
 :white_check_mark: | [0014_longestCommonPrefix][0014-p] | [Python3][0014-3] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0020_isValid][0020-p] | [Python3][0020-3] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0028_strStr][0028-p] | [Python3][0028-3] | <Font Color=Green>Easy</Font> |
@@ -33,7 +33,7 @@ Status | Problem | Solution | Difficulty
 
 ## LinkedList
 Status | Problem | Solution | Difficulty
--|-|-|-
+:-|:-|:-|:-
 :white_check_mark: | [0002_addTwoNumbers][0002-p] | [C][0002-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0021_mergeTwoLists][0021-p] | [C][0021-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0024_swapPairs][0024-p] | [C][0024-c] | <Font Color=Orange>Medium</Font> |
