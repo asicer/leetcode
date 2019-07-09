@@ -38,7 +38,7 @@ Status | Problem | Solution
 :white_check_mark: | [0002_addTwoNumbers][0002-p] | [C][0002-c]
 :white_check_mark: | [0021_mergeTwoLists][0021-p] | [C][0021-c]
 :white_check_mark: | [0024_swapPairs][0024-p] | [C][0024-c]
-
+:white_check_mark: | [0206_reverseList][0206-p] | [C][0206-c]
 
 [0001-p]: https://leetcode.com/problems/two-sum/
 [0026-p]: https://leetcode.com/problems/remove-duplicates-from-sorted-crray/
@@ -54,7 +54,6 @@ Status | Problem | Solution
 [0118-p]: https://leetcode.com/problems/pascals-triangle/
 [0118-3]: https://github.com/asicer/leetcode/blob/master/0118_generate.py
 [0119-p]: https://leetcode.com/problems/pascals-triangle-ii/
-
 
 [0014-p]: https://leetcode.com/problems/longest-common-prefix/
 [0014-3]: https://github.com/asicer/leetcode/blob/master/0014_longestCommonPrefix.py
@@ -80,4 +79,4 @@ Status | Problem | Solution
 [0024-p]: https://leetcode.com/problems/swap-nodes-in-pairs/
 [0024-c]: https://github.com/asicer/leetcode/blob/master/0024_swapPairs.c
 [0206-p]: https://leetcode.com/problems/reverse-linked-list/
-[0206-c]:
+[0206-c]: https://github.com/asicer/leetcode/blob/master/0206_reverseList.c
