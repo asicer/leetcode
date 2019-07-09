@@ -37,6 +37,7 @@ Status | Problem | Solution
 -|-|-
 :white_check_mark: | [0002_addTwoNumbers][0002-p] | [C][0002-c]
 :white_check_mark: | [0021_mergeTwoLists][0021-p] | [C][0021-c]
+:white_check_mark: | [0024_swapPairs][0024-p] | [C][0024-c]
 
 
 [0001-p]: https://leetcode.com/problems/two-sum/
@@ -76,3 +77,5 @@ Status | Problem | Solution
 [0002-c]: https://github.com/asicer/leetcode/blob/master/0002_addTwoNumbers.c
 [0021-p]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0021-c]: https://github.com/asicer/leetcode/blob/master/0021_mergeTwoLists.c
+[0024-p]: https://leetcode.com/problems/swap-nodes-in-pairs/
+[0024-c]: https://github.com/asicer/leetcode/blob/master/0024_swapPairs
