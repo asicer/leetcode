@@ -78,4 +78,6 @@ Status | Problem | Solution
 [0021-p]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0021-c]: https://github.com/asicer/leetcode/blob/master/0021_mergeTwoLists.c
 [0024-p]: https://leetcode.com/problems/swap-nodes-in-pairs/
-[0024-c]: https://github.com/asicer/leetcode/blob/master/0024_swapPairs
+[0024-c]: https://github.com/asicer/leetcode/blob/master/0024_swapPairs.c
+[0206-p]: https://leetcode.com/problems/reverse-linked-list/
+[0206-c]:
