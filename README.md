@@ -39,6 +39,7 @@ Status | Problem | Solution
 :white_check_mark: | [0021_mergeTwoLists][0021-p] | [C][0021-c]
 :white_check_mark: | [0024_swapPairs][0024-p] | [C][0024-c]
 :white_check_mark: | [0206_reverseList][0206-p] | [C][0206-c]
+:white_check_mark: | [0092_reverseBetween][0092-p] | [C][0092-c]
 
 [0001-p]: https://leetcode.com/problems/two-sum/
 [0026-p]: https://leetcode.com/problems/remove-duplicates-from-sorted-crray/
@@ -80,3 +81,5 @@ Status | Problem | Solution
 [0024-c]: https://github.com/asicer/leetcode/blob/master/0024_swapPairs.c
 [0206-p]: https://leetcode.com/problems/reverse-linked-list/
 [0206-c]: https://github.com/asicer/leetcode/blob/master/0206_reverseList.c
+[0092-p]: https://leetcode.com/problems/reverse-linked-list-ii/
+[0092-c]: https://github.com/asicer/leetcode/blob/master/0092_reverseBetween.c
