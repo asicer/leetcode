@@ -40,6 +40,7 @@ Status | Problem | Solution | Difficulty |
 :white_check_mark: | [0206_reverseList][0206-p] | [C][0206-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0083_deleteDuplicates][0083-p] | [C][0083-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0092_reverseBetween][0092-p] | [C][0092-c] | <Font Color=Orange>Medium</Font> |
+:white_check_mark: | [0234_isPalindrome][0234-p] | [Cxx][0234-x] | <Font Color=Green>Easy</Font> |
 
 [0001-p]: https://leetcode.com/problems/two-sum/
 [0001-3]: https://github.com/asicer/leetcode/blob/master/0001_twoSum.py
@@ -88,3 +89,5 @@ Status | Problem | Solution | Difficulty |
 [0092-c]: https://github.com/asicer/leetcode/blob/master/0092_reverseBetween.c
 [0083-p]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [0083-c]: https://github.com/asicer/leetcode/blob/master/0083_deleteDuplicates.c
+[0234-p]: https://leetcode.com/problems/palindrome-linked-list/
+[0234-x]: https://github.com/asicer/leetcode/blob/master/0234_isPalindrome.cxx
