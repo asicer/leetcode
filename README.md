@@ -10,8 +10,8 @@
 ## Array
  Status | Problem | Solution | Difficulty |
 :-|:-|:-|:-|
-:white_check_mark: | [0001_twoSum][0001-p]           | [Python][0001-3] | <Font Color=Green>Easy</Font> |
-:white_check_mark: | [0026_removeDuplicates][0026-p] | [C][0026-c]| <Font Color=Green>Easy</Font> |
+:white_check_mark: | [0001_twoSum][0001-p]           | [Python][0001-3] [Java][0001-j]| <Font Color=Green>Easy</Font> |
+:white_check_mark: | [0026_removeDuplicates][0026-p] | [C][0026-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0027_removeElement][0027-p]    | [C][0027-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0035_searchInsert][0035-p]     | [C][0035-c] | <Font Color=Green>Easy</Font> |
 :white_check_mark: | [0053_maxSubArray][0053-p]      | [C][0053-c] | <Font Color=Green>Easy</Font> |
@@ -48,6 +48,7 @@ getIntersectionNode
 
 [0001-p]: https://leetcode.com/problems/two-sum/
 [0001-3]: https://github.com/asicer/leetcode/blob/master/0001_twoSum.py
+[0001-3]: https://github.com/asicer/leetcode/blob/master/0001_twoSum.java
 [0026-p]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [0026-c]: https://github.com/asicer/leetcode/blob/master/0026_removeDuplicates.c
 [0027-p]: https://leetcode.com/problems/remove-element/
