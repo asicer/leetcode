@@ -48,7 +48,7 @@ getIntersectionNode
 
 [0001-p]: https://leetcode.com/problems/two-sum/
 [0001-3]: https://github.com/asicer/leetcode/blob/master/0001_twoSum.py
-[0001-3]: https://github.com/asicer/leetcode/blob/master/0001_twoSum.java
+[0001-j]: https://github.com/asicer/leetcode/blob/master/0001_twoSum.java
 [0026-p]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [0026-c]: https://github.com/asicer/leetcode/blob/master/0026_removeDuplicates.c
 [0027-p]: https://leetcode.com/problems/remove-element/
